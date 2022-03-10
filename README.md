@@ -6,6 +6,6 @@
 
 [Концепт системы для автоматизации](./artifacts/system_concept.md)
 
-[ТЗ](./docs/Technical task.md)
+[ТЗ](./docs/Technical_task.md)
 
 [Руководство пользователя](./docs/User guide.md)
