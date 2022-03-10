@@ -8,4 +8,4 @@
 
 [ТЗ](./docs/Technical_task.md)
 
-[Руководство пользователя](./docs/User guide.md)
+[Руководство пользователя](./docs/User_guide.md)
