@@ -4,4 +4,4 @@
 
 [Процессы AS-IS и TO-BE](./artifacts/Process.md)
 
-[Концепт автоматизации](./artifacts/Process.md)
+[Концепт системы для автоматизации](./artifacts/system concept for automation.md)
